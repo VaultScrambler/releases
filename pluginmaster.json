@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Community Contributor",
+    "Name": "VaultScrambler",
+    "Punchline": "Expands your player discovery radius for the EchoVault census.",
+    "Description": "Lightweight plugin that helps the EchoVault community census by widening your scan coverage. Works alongside other census tools.",
+    "InternalName": "VaultScrambler",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/VaultScrambler/releases",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": ["census", "social", "utility"],
+    "DownloadLinkInstall": "https://github.com/VaultScrambler/releases/releases/download/v1.0.0/1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/VaultScrambler/releases/releases/download/v1.0.0/1.0.0.zip",
+    "IconUrl": "",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "CanUnloadAsync": false,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1722400000"
+  }
+]
