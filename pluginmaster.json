@@ -2,27 +2,30 @@
   {
     "Author": "Community Contributor",
     "Name": "Echo",
-    "Punchline": "See the players you have crossed paths with.",
-    "Description": "Records players you encounter and syncs them to the EchoVault community index. Browse at echovault.gg.",
     "InternalName": "Echo",
     "AssemblyVersion": "0.8.2.0",
-    "RepoUrl": "https://github.com/VaultScrambler/releases",
+    "Description": "Records players you encounter and syncs them to the EchoVault community index. Browse at echovault.gg.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "IconUrl": "",
+    "RepoUrl": "https://github.com/VaultScrambler/releases",
     "Tags": [
       "players",
       "index",
       "social"
     ],
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IsHide": false,
-    "IsTestingExclusive": false,
+    "IconUrl": "https://echovault.gg/brand/plugin-icon.png",
+    "Punchline": "See the players you have crossed paths with.",
+    "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/VaultScrambler/releases/raw/main/EchoFork.zip",
     "DownloadLinkUpdate": "https://github.com/VaultScrambler/releases/raw/main/EchoFork.zip",
+    "DownloadLinkTesting": "https://github.com/VaultScrambler/releases/raw/main/EchoFork.zip",
+    "Changelog": "### 0.8.2.0\n- Updated capture fields to match Echo 0.8.2 protocol: accountId, titleId, grandCompany, equipment slots, weapon models, homeWorldName from memory.\n- Improved census coverage and compatibility.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "LastUpdated": "1785406800"
   }
 ]
