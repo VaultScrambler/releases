@@ -5,7 +5,7 @@
     "Punchline": "See the players you have crossed paths with.",
     "Description": "Records players you encounter and syncs them to the EchoVault community index. Browse at echovault.gg.",
     "InternalName": "Echo",
-    "AssemblyVersion": "0.8.0.0",
+    "AssemblyVersion": "0.8.2.0",
     "RepoUrl": "https://github.com/VaultScrambler/releases",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -23,6 +23,6 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/VaultScrambler/releases/raw/main/EchoFork.zip",
     "DownloadLinkUpdate": "https://github.com/VaultScrambler/releases/raw/main/EchoFork.zip",
-    "LastUpdated": "1784720780"
+    "LastUpdated": "1785406800"
   }
 ]
